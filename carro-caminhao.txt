@@ -1,0 +1,9 @@
+A pergunta é qual dos dois estará mais próximo de ribeirão preto, sendo que quando eles se encontrarem eles vão estar exatamente a mesma distância de RB.
+
+Ou seja, a resposta é os dois!
+                                                                                                    Caminhão
+                                                                                                    <----------------------------------------- FRANCA
+RIBEIRÃO PRETO ------------------------------------------------------------------------------------->
+                                                                                                Carro
+
+Portando, quando os dois se encontrarem a distância de ambos em relação a RB é exatamente a mesma!
