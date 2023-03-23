@@ -1,0 +1,13 @@
+function impar() {
+  var imp = 1;
+  var som = 2;
+  var inf = 0;
+
+  while (imp > inf) {
+    imp = imp + som;
+
+    console.log(imp);
+  }
+}
+
+impar()
